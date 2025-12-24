@@ -1,4 +1,4 @@
-# Donut 3D Art
+# Donut 3D Blender Art
 
 ## About
 This is a 3d model of a plate of donuts made using the Blender software and Blendit (Blender + Git) version control.
